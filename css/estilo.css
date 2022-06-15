@@ -6,3 +6,21 @@ body{
 	
 
 }
+
+.container{
+	background-color: #5ce4a0;
+	padding 1em;
+
+.item1{
+	margin: 1em;
+	padding 1em;
+	color: #ffffff;
+	float: left;
+	}
+	
+	.item2{
+	margin: 1em;
+	padding 1em;
+	color: #ffffff;
+	float: right;
+	}
