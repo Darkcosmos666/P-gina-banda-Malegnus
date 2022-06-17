@@ -23,7 +23,8 @@ body{
 	
 	}
 
-.item3{	
+.item3{	position: relative;
+	top: 50px;
         bottom: 500px;
 	
 	}
