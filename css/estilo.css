@@ -24,9 +24,9 @@ body{
 	}
 
 .item3{
-	margin: 10px;
-	padding: 10px;
-	float: down;
+	margin: auto;
+	display: block;
+	position: fixed;
 	}
 	
 
