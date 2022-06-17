@@ -12,6 +12,7 @@ body{
 	padding 10px;
 	color: #ffffff;
 	float: left;
+	font: #ffffff; 
 	}
 
 #item1{
@@ -19,6 +20,7 @@ body{
 	padding 10px;
 	color: #ffffff;
 	float: right;
+	font: #ffffff;
 	}
 	
 
