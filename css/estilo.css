@@ -7,7 +7,7 @@ body{
 
 }
 
-#item1{
+.item1{
 	margin: 10px;
 	padding 10px;
 	color: #ffffff;
@@ -15,7 +15,7 @@ body{
 	
 	}
 
-#item2{
+.item2{
 	margin: 10px;
 	padding 10px;
 	color: #ffffff;
