@@ -23,8 +23,9 @@ body{
 	
 	}
 
-.item3{	
-	position absolute
+.item3{	width:100px;
+	hight: 50px;
+	position: absolute;
         bottom: 500px;
 	
 	}
