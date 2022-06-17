@@ -13,5 +13,12 @@ body{
 	color: #ffffff;
 	float: left;
 	}
+
+item{
+	margin: 10px;
+	padding 10px;
+	color: #ffffff;
+	float: right;
+	}
 	
 
