@@ -10,7 +10,7 @@ body{
 .item1{
 	margin: 10px;
 	padding 10px;
-	color: #ffffff;
+	font: #ffffff;
 	float: left;
 	
 	}
@@ -18,7 +18,7 @@ body{
 .item2{
 	margin: 10px;
 	padding 10px;
-	color: #ffffff;
+	font: #ffffff;
 	float: right;
 	
 	}
