@@ -23,10 +23,9 @@ body{
 	
 	}
 
-.item3{
-	margin: auto;
-	display: block;
+.item3{	
 	position: fixed;
+	bottom: 50px;
 	}
 	
 
