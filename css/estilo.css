@@ -24,8 +24,7 @@ body{
 	}
 
 .item3{	
-	
-	Left: 500px;
+	position absolute
         bottom: 500px;
 	
 	}
