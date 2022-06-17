@@ -24,8 +24,10 @@ body{
 	}
 
 .item3{	
+	height: 50;
+	width: 100;
 	position: fixed;
-	bottom: 50px;
+	bottom: 500px;
 	}
 	
 
