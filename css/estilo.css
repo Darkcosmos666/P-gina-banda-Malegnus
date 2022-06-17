@@ -8,15 +8,15 @@ body{
 }
 
 #item{
-	margin: 1em;
-	padding 1em;
+	margin: 10px;
+	padding 10px;
 	color: #ffffff;
 	float: left;
 	}
 	
 #item1{
-	margin: 1em;
-	padding 1em;
+	margin: 10px;
+	padding 10px;
 	color: #ffffff;
 	float: right;
 	}
